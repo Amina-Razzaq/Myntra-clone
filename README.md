@@ -1,2 +1,3 @@
 # Myntra-clone
-This is my first project using  Html and Css
+This is my first Git Repository using  HTML and CSS
+Author- Amina Razzaq 
